@@ -1,0 +1,562 @@
+[
+    {
+        "account": "0x863b...a995",
+        "allocation_tharwa": 1062858557728494823931904
+    },
+    {
+        "account": "0xd6Eb...8D51",
+        "allocation_tharwa": 933473523942488589467648
+    },
+    {
+        "account": "0x8d4D...C281",
+        "allocation_tharwa": 400417055334784202440704
+    },
+    {
+        "account": "0x5e04...A2fB",
+        "allocation_tharwa": 40673731389448530165760
+    },
+    {
+        "account": "0xfF48...81f7",
+        "allocation_tharwa": 23215223637123677552640
+    },
+    {
+        "account": "0x8862...3Ba9",
+        "allocation_tharwa": 9944991248575801327616
+    },
+    {
+        "account": "0x79ee...b570",
+        "allocation_tharwa": 7619678460139234394112
+    },
+    {
+        "account": "0xe32f...8C73",
+        "allocation_tharwa": 6801506915004684697600
+    },
+    {
+        "account": "0x7bf6...df60",
+        "allocation_tharwa": 4979307198466632974336
+    },
+    {
+        "account": "0xFe2a...6Dd1",
+        "allocation_tharwa": 3959123894527422103552
+    },
+    {
+        "account": "0x0002...cDAE",
+        "allocation_tharwa": 2776742173506377089024
+    },
+    {
+        "account": "0x7F8c...8288",
+        "allocation_tharwa": 2339535731430772965376
+    },
+    {
+        "account": "0x3c2B...72Ec",
+        "allocation_tharwa": 1939327675920427253760
+    },
+    {
+        "account": "0x7468...8Bc6",
+        "allocation_tharwa": 1063961804505129549824
+    },
+    {
+        "account": "0xEBbd...dd60",
+        "allocation_tharwa": 950841072577670021120
+    },
+    {
+        "account": "0xEE6C...BAD8",
+        "allocation_tharwa": 943507129476969660416
+    },
+    {
+        "account": "0x714A...f6FD",
+        "allocation_tharwa": 667808515773304012800
+    },
+    {
+        "account": "0x68d2...e7B1",
+        "allocation_tharwa": 473235424166268567552
+    },
+    {
+        "account": "0xc659...0bBf",
+        "allocation_tharwa": 471843767197017309184
+    },
+    {
+        "account": "0x2bCE...73F1",
+        "allocation_tharwa": 454161598916757028864
+    },
+    {
+        "account": "0xA435...6349",
+        "allocation_tharwa": 433458211254297427968
+    },
+    {
+        "account": "0x5cee...08B8",
+        "allocation_tharwa": 415215028728972378112
+    },
+    {
+        "account": "0x9849...fc35",
+        "allocation_tharwa": 414114333103323152384
+    },
+    {
+        "account": "0xcd33...72b4",
+        "allocation_tharwa": 320600977141060796416
+    },
+    {
+        "account": "0x2CA9...C72c",
+        "allocation_tharwa": 314538635581841539072
+    },
+    {
+        "account": "0x90d5...973B",
+        "allocation_tharwa": 289057688489264807936
+    },
+    {
+        "account": "0xFAc7...FB87",
+        "allocation_tharwa": 231378491005329539072
+    },
+    {
+        "account": "0xC081...726D",
+        "allocation_tharwa": 212488968839939620864
+    },
+    {
+        "account": "0xfc2c...6E16",
+        "allocation_tharwa": 175403902892431015936
+    },
+    {
+        "account": "0xc5DA...47f4",
+        "allocation_tharwa": 163804511553749450752
+    },
+    {
+        "account": "0xa8a0...B2C6",
+        "allocation_tharwa": 163317428476875341824
+    },
+    {
+        "account": "0x8e89...34e5",
+        "allocation_tharwa": 146484908900450058240
+    },
+    {
+        "account": "0x8c2B...5cC3",
+        "allocation_tharwa": 119700003207667335168
+    },
+    {
+        "account": "0xCD4f...6843",
+        "allocation_tharwa": 115557173684198490112
+    },
+    {
+        "account": "0x3c8C...1B4F",
+        "allocation_tharwa": 113840609305105006592
+    },
+    {
+        "account": "0xb441...271f",
+        "allocation_tharwa": 104295717682401181696
+    },
+    {
+        "account": "0xe2A1...C76e",
+        "allocation_tharwa": 96114258012974989312
+    },
+    {
+        "account": "0x9100...B15C",
+        "allocation_tharwa": 92439579031803150336
+    },
+    {
+        "account": "0x0D52...8063",
+        "allocation_tharwa": 76348479560638742528
+    },
+    {
+        "account": "0xf141...7d6B",
+        "allocation_tharwa": 73384538467526574080
+    },
+    {
+        "account": "0x5115...7B6E",
+        "allocation_tharwa": 70316524588477767680
+    },
+    {
+        "account": "0x248E...A3a8",
+        "allocation_tharwa": 57667333602782265344
+    },
+    {
+        "account": "0x1BA6...C2C7",
+        "allocation_tharwa": 54120442846256226304
+    },
+    {
+        "account": "0x3931...291A",
+        "allocation_tharwa": 49050917778410913792
+    },
+    {
+        "account": "0xC0c2...250e",
+        "allocation_tharwa": 46932067971785859072
+    },
+    {
+        "account": "0xBA60...eb65",
+        "allocation_tharwa": 46075934900100513792
+    },
+    {
+        "account": "0xEe88...2743",
+        "allocation_tharwa": 45765035007775211520
+    },
+    {
+        "account": "0x9008...ab41",
+        "allocation_tharwa": 39208047405530726400
+    },
+    {
+        "account": "0x9a56...6e55",
+        "allocation_tharwa": 35096643071061831680
+    },
+    {
+        "account": "0x47ac...4120",
+        "allocation_tharwa": 34988062628083695616
+    },
+    {
+        "account": "0x9B44...690F",
+        "allocation_tharwa": 30954119973332168704
+    },
+    {
+        "account": "0x2cff...9818",
+        "allocation_tharwa": 25603913791005843456
+    },
+    {
+        "account": "0xB1e0...C8B1",
+        "allocation_tharwa": 25397952688152674304
+    },
+    {
+        "account": "0x441E...D5CB",
+        "allocation_tharwa": 24994180344313208832
+    },
+    {
+        "account": "0x250b...D885",
+        "allocation_tharwa": 24397945077810704384
+    },
+    {
+        "account": "0x8363...7700",
+        "allocation_tharwa": 21231304049366220800
+    },
+    {
+        "account": "0xE2C9...0D90",
+        "allocation_tharwa": 18959699439007162368
+    },
+    {
+        "account": "0x3BD7...77cA",
+        "allocation_tharwa": 18442977748845666304
+    },
+    {
+        "account": "0xb677...9C1C",
+        "allocation_tharwa": 16232986002792900608
+    },
+    {
+        "account": "0x3cA1...99A4",
+        "allocation_tharwa": 14884340512331843584
+    },
+    {
+        "account": "0xA787...BE7B",
+        "allocation_tharwa": 14478167374282661888
+    },
+    {
+        "account": "0xbAe9...75b4",
+        "allocation_tharwa": 14206319946937999360
+    },
+    {
+        "account": "0x040b...67B5",
+        "allocation_tharwa": 14193928729247895552
+    },
+    {
+        "account": "0x3904...7ebc",
+        "allocation_tharwa": 13194290724325226496
+    },
+    {
+        "account": "0xCE65...3BB2",
+        "allocation_tharwa": 12132085713178161152
+    },
+    {
+        "account": "0xc069...a002",
+        "allocation_tharwa": 10614840393684531200
+    },
+    {
+        "account": "0x74a2...32f0",
+        "allocation_tharwa": 10252373280498771968
+    },
+    {
+        "account": "0x8e26...12a0",
+        "allocation_tharwa": 9744481466327678976
+    },
+    {
+        "account": "0xcef9...7e48",
+        "allocation_tharwa": 9319227101233360896
+    },
+    {
+        "account": "0xa2Bc...CE00",
+        "allocation_tharwa": 7272201184453322752
+    },
+    {
+        "account": "0xE759...4151",
+        "allocation_tharwa": 7035591534328084480
+    },
+    {
+        "account": "0x6094...6f55",
+        "allocation_tharwa": 6534200293763572736
+    },
+    {
+        "account": "0xb57f...8B80",
+        "allocation_tharwa": 5918089721462481920
+    },
+    {
+        "account": "0x8D41...2828",
+        "allocation_tharwa": 5878837704705008640
+    },
+    {
+        "account": "0x00C6...4AD8",
+        "allocation_tharwa": 4271394727424628224
+    },
+    {
+        "account": "0xcFc9...Ab03",
+        "allocation_tharwa": 2864471210360278016
+    },
+    {
+        "account": "0x654B...60fe",
+        "allocation_tharwa": 2599348788534220800
+    },
+    {
+        "account": "0x4246...22a1",
+        "allocation_tharwa": 2581639860200848384
+    },
+    {
+        "account": "0x382f...2bA1",
+        "allocation_tharwa": 2321163813724761088
+    },
+    {
+        "account": "0x8ca3...1cad",
+        "allocation_tharwa": 2104286867464257280
+    },
+    {
+        "account": "0xf8ce...4bC3",
+        "allocation_tharwa": 2014921628868718080
+    },
+    {
+        "account": "0x0e33...dA02",
+        "allocation_tharwa": 1836404406677668352
+    },
+    {
+        "account": "0x0060...3902",
+        "allocation_tharwa": 1794451044748845312
+    },
+    {
+        "account": "0x2991...f283",
+        "allocation_tharwa": 1766357705050909696
+    },
+    {
+        "account": "0x5FA9...3052",
+        "allocation_tharwa": 1759596915663614208
+    },
+    {
+        "account": "0x0dB9...302a",
+        "allocation_tharwa": 1710959205485748480
+    },
+    {
+        "account": "0x1B18...C81d",
+        "allocation_tharwa": 1691272943574914048
+    },
+    {
+        "account": "0xA6b5...375d",
+        "allocation_tharwa": 1497111601087597824
+    },
+    {
+        "account": "0x8f16...44a3",
+        "allocation_tharwa": 1371367409881982464
+    },
+    {
+        "account": "0x6d86...9456",
+        "allocation_tharwa": 1129328080408845184
+    },
+    {
+        "account": "0x55D8...EBc3",
+        "allocation_tharwa": 982649659160030976
+    },
+    {
+        "account": "0xE2C3...18D2",
+        "allocation_tharwa": 903066048412775936
+    },
+    {
+        "account": "0x45C9...846f",
+        "allocation_tharwa": 873598004391188736
+    },
+    {
+        "account": "0x5FA0...80E3",
+        "allocation_tharwa": 782517060136498560
+    },
+    {
+        "account": "0xf6A3...710f",
+        "allocation_tharwa": 698270809661714560
+    },
+    {
+        "account": "0xC25b...38aF",
+        "allocation_tharwa": 580857542052135168
+    },
+    {
+        "account": "0xE778...4fb9",
+        "allocation_tharwa": 562749844072827200
+    },
+    {
+        "account": "0x965d...b30d",
+        "allocation_tharwa": 517312959992634496
+    },
+    {
+        "account": "0xC88B...353f",
+        "allocation_tharwa": 497081196683489536
+    },
+    {
+        "account": "0x442D...fEd1",
+        "allocation_tharwa": 496859816708473408
+    },
+    {
+        "account": "0x4ACb...bFD7",
+        "allocation_tharwa": 427914841901893824
+    },
+    {
+        "account": "0x28aA...9f65",
+        "allocation_tharwa": 322101416583894720
+    },
+    {
+        "account": "0xcA08...7053",
+        "allocation_tharwa": 301022016137591936
+    },
+    {
+        "account": "0xF931...CECF",
+        "allocation_tharwa": 292409529145718464
+    },
+    {
+        "account": "0xD0a6...dE0f",
+        "allocation_tharwa": 269028503077045216
+    },
+    {
+        "account": "0xCBBe...485c",
+        "allocation_tharwa": 253899378930667936
+    },
+    {
+        "account": "0x67F8...d0fd",
+        "allocation_tharwa": 205376697304227040
+    },
+    {
+        "account": "0x0987...8f8d",
+        "allocation_tharwa": 185128539924619040
+    },
+    {
+        "account": "0xcc6A...Efc5",
+        "allocation_tharwa": 167569603784314016
+    },
+    {
+        "account": "0xb114...Efb9",
+        "allocation_tharwa": 166121112191020000
+    },
+    {
+        "account": "0x7810...8fA5",
+        "allocation_tharwa": 150342435739758912
+    },
+    {
+        "account": "0x75a5...7432",
+        "allocation_tharwa": 140837543463148064
+    },
+    {
+        "account": "0x4B27...7d62",
+        "allocation_tharwa": 139161296646830992
+    },
+    {
+        "account": "0x34D8...9e63",
+        "allocation_tharwa": 136386500836966848
+    },
+    {
+        "account": "0xC3BF...654f",
+        "allocation_tharwa": 115096653229079264
+    },
+    {
+        "account": "0x9b47...AEa2",
+        "allocation_tharwa": 74938675600093408
+    },
+    {
+        "account": "0x1da7...e5d9",
+        "allocation_tharwa": 73774776887466288
+    },
+    {
+        "account": "0xaeF2...fE8f",
+        "allocation_tharwa": 67232943829613944
+    },
+    {
+        "account": "0x6C48...d9F6",
+        "allocation_tharwa": 65006754231626328
+    },
+    {
+        "account": "0xCAc5...f160",
+        "allocation_tharwa": 63981198461033664
+    },
+    {
+        "account": "0x284d...8cdD",
+        "allocation_tharwa": 50465455646596232
+    },
+    {
+        "account": "0xB057...D294",
+        "allocation_tharwa": 46260001009379832
+    },
+    {
+        "account": "0x5023...1eA8",
+        "allocation_tharwa": 35690135962070920
+    },
+    {
+        "account": "0x375D...1527",
+        "allocation_tharwa": 24860577157306956
+    },
+    {
+        "account": "0x0Cb6...93af",
+        "allocation_tharwa": 18418684945757452
+    },
+    {
+        "account": "0xFcB0...ceB3",
+        "allocation_tharwa": 15403916316970186
+    },
+    {
+        "account": "0xD52b...f60A",
+        "allocation_tharwa": 9561875806723414
+    },
+    {
+        "account": "0xf4c5...d3D4",
+        "allocation_tharwa": 8388155551448152
+    },
+    {
+        "account": "0x628d...7443",
+        "allocation_tharwa": 8134423658842361
+    },
+    {
+        "account": "0x58d6...23C2",
+        "allocation_tharwa": 7481282459890085
+    },
+    {
+        "account": "0x9BCd...024e",
+        "allocation_tharwa": 6609808095502676
+    },
+    {
+        "account": "0x5dBe...B85C",
+        "allocation_tharwa": 6568735608138412
+    },
+    {
+        "account": "0xAf4f...4d90",
+        "allocation_tharwa": 3895579032368790
+    },
+    {
+        "account": "0xe135...721d",
+        "allocation_tharwa": 3718507258170171
+    },
+    {
+        "account": "0x2af6...F7D6",
+        "allocation_tharwa": 2974805806536114
+    },
+    {
+        "account": "0xDC7B...B0c6",
+        "allocation_tharwa": 2124861290382955
+    },
+    {
+        "account": "0xe572...590A",
+        "allocation_tharwa": 1611353145207066
+    },
+    {
+        "account": "0xE805...AB42",
+        "allocation_tharwa": 460386612916221
+    },
+    {
+        "account": "0xaf90...55B3",
+        "allocation_tharwa": 371850725816970
+    },
+    {
+        "account": "0xBB7e...537d",
+        "allocation_tharwa": 53121532259550
+    }
+]
