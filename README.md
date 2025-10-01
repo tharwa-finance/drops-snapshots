@@ -2,7 +2,7 @@
 
 This repo is a registry of the THARWA drop allocations for all seasons. 
 
-## Allocation rules
+## Season 1 : Allocation rules
 
 Eligible addresses are those who held one of the tokens: 
 - [`0x76972F054aB43829064d31fF5f3AcC5Fabe57FE8`](https://etherscan.io/address/0x76972F054aB43829064d31fF5f3AcC5Fabe57FE8), thUsd. 
